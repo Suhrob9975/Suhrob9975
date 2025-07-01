@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Salom! Men haqimda
 
-<!--
-**Suhrob9975/Suhrob9975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Assalomu alaykum! Profilimga xush kelibsiz. Bu yerda mening dasturlashdagi faoliyatim, loyihalarim va qiziqishlarim haqida qisqacha ma’lumotlar bilan tanishishingiz mumkin.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 Asosiy ma’lumotlar
+
+- **Ism:** -------------------------
+- **Familiya:** --------------------
+- **Manzil (shahar, davlat):** --------------------
+- **Email:** ------------------------
+- **Telegram:** ---------------------
+- **GitHub username:** ----------------
+
+---
+
+## 💻 Dasturlash tillari va texnologiyalar
+
+- -------------------------
+- -------------------------
+- -------------------------
+
+---
+
+## 🚀 Loyiha va faoliyatlar
+
+- **Asosiy loyihalar:**
+  - -------------------------
+  - -------------------------
+  - -------------------------
+
+- **Open-source hissalarim:**
+  - -------------------------
+  - -------------------------
+
+---
+
+## 🎯 Qiziqishlar va maqsadlar
+
+- -------------------------
+- -------------------------
+- -------------------------
+
+---
+
+## 📫 Bog‘lanish uchun
+
+Agar hamkorlik qilmoqchi bo‘lsangiz yoki savollaringiz bo‘lsa, bemalol yozing!
+
+---
+
+> **Profil doimiy ravishda yangilanadi!**
