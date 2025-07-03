@@ -7,7 +7,7 @@ Assalomu alaykum! Profilimga xush kelibsiz. Bu yerda mening dasturlashdagi faoli
 ## 👤 Asosiy ma’lumotlar
 
 - **Ism:** -------------------------
-- **Familiya:** --------------------
+- **Familiya:** ----------------------
 - **Manzil (shahar, davlat):** ------------------
 - **Email:** ------------------------
 - **Telegram:** ---------------------
@@ -38,9 +38,9 @@ Assalomu alaykum! Profilimga xush kelibsiz. Bu yerda mening dasturlashdagi faoli
 
 ## 🎯 Qiziqishlar va maqsadlar
 
-- -------------------------
-- -------------------------
-- -------------------------
+- ---------------------------
+- ---------------------------
+- ---------------------------
 
 ---
 
