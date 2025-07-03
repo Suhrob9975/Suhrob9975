@@ -8,7 +8,7 @@ Assalomu alaykum! Profilimga xush kelibsiz. Bu yerda mening dasturlashdagi faoli
 
 - **Ism:** -------------------------
 - **Familiya:** --------------------
-- **Manzil (shahar, davlat):** --------------------
+- **Manzil (shahar, davlat):** -------------------
 - **Email:** ------------------------
 - **Telegram:** ---------------------
 - **GitHub username:** ----------------
