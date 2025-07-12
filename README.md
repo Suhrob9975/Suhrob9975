@@ -48,6 +48,9 @@ Assalomu alaykum! Profilimga xush kelibsiz. Bu yerda mening dasturlashdagi faoli
 
 Agar hamkorlik qilmoqchi bo‘lsangiz yoki savollaringiz bo‘lsa, bemalol yozing!
 
-https://t.me/Suhrob9975
+[![Telegram Sticker](https://tlgrm.eu/_/stickers/5ac4cc37e70a21041c1836db/1.webp)](https://t.me/Suhrob9975)
+
+👉 Mening Telegramim: [@Suhrob9975](https://t.me/Suhrob9975)
+
 
 > **Profil doimiy ravishda yangilanadi!**
