@@ -48,6 +48,6 @@ Assalomu alaykum! Profilimga xush kelibsiz. Bu yerda mening dasturlashdagi faoli
 
 Agar hamkorlik qilmoqchi bo‘lsangiz yoki savollaringiz bo‘lsa, bemalol yozing!
 
----
+https://t.me/Suhrob9975
 
 > **Profil doimiy ravishda yangilanadi!**
